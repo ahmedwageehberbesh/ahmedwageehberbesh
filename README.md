@@ -1,86 +1,112 @@
-# Hi, I'm Ahmed Wageeh! 👋
+<h1 align="center">Hi 👋, I'm Ahmed Wageeh</h1>
+<h3 align="center">Communications & Electronics Engineering Student | Flutter Developer | FastAPI Backend Developer</h3>
 
-## 🚀 About Me
-I am a Communications and Electronics Engineering student at GEI, passionate about software development, backend systems, mobile applications, and embedded systems.  
-I enjoy building full-stack applications, smart systems, and scalable APIs using modern technologies.
-
----
-
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-wageeh-berbesh/)
+<p align="center">
+  Passionate about building scalable mobile applications, backend systems, and embedded solutions 🚀
+</p>
 
 ---
 
-## 🛠 Skills
+# 💫 About Me
 
-### 💻 Programming Languages
-- Python
-- Dart
-- C++
-- SQL
-
-### 📱 Mobile Development
-- Flutter
-- Responsive UI Design
-- State Management
-
-### ⚙ Backend Development
-- FastAPI
-- REST APIs
-- Authentication & Authorization
-- CRUD Systems
-- Report Generation APIs
-
-### 🗄 Databases
-- MySQL
-- SQLite3
-
-### 🔧 Tools & Technologies
-- Git & GitHub
-- Docker
-- Linux
-- VS Code
-- Postman
-
-### 🤖 Embedded Systems & IoT
-- Arduino
-- ESP32
-- Sensors & Motors Integration
-- Smart Car Systems
+🎓 Communications and Electronics Engineering student at GEI  
+📱 Flutter Developer building modern mobile applications  
+⚙️ FastAPI Backend Developer creating scalable REST APIs  
+🤖 Embedded Systems & IoT enthusiast using Arduino & ESP32  
+🛠 Passionate about problem solving, system architecture, and automation  
+🚀 Currently working on full-stack travel management systems  
 
 ---
 
-## 📌 Featured Projects
+# 🌐 Connect With Me
 
-### 🚍 Afifi Travel System
-A full travel management system including:
-- Flutter mobile applications
-- FastAPI backend
-- Booking management
-- Driver management
-- Detailed trip reports
-- PDF generation
-- Multi-language support
-
-### 🤖 Smart Car Project
-An ESP32/Arduino-based smart car featuring:
-- Obstacle avoidance
-- Bluetooth/WiFi control
-- Ultrasonic sensors
-- Servo motor integration
-
-### 📊 Reporting & Management Systems
-Built detailed reporting systems with:
-- Dynamic PDF reports
-- Revenue analytics
-- Passenger management
-- Trip tracking
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmed-wageeh-berbesh/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+</p>
 
 ---
 
-## 📈 Currently Learning
+# 💻 Tech Stack
+
+## 🚀 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,dart,c" />
+</p>
+
+## 📱 Mobile Development
+<p>
+<img src="https://skillicons.dev/icons?i=flutter" />
+</p>
+
+## ⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi" />
+</p>
+
+## 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+## 🔧 Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+</p>
+
+## 🤖 Embedded Systems & IoT
+<p>
+<img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🚍 Afifi Travel Full System
+A complete travel management platform built with Flutter & FastAPI featuring:
+
+✨ Booking Management  
+✨ Driver Management  
+✨ Passenger Tracking  
+✨ PDF Report Generation  
+✨ Multi-language Support  
+✨ Authentication System  
+✨ Smart Trip Management  
+
+---
+
+## 🤖 Smart Car Project
+ESP32 & Arduino based smart vehicle with:
+
+🔹 Obstacle Avoidance  
+🔹 Bluetooth/WiFi Control  
+🔹 Ultrasonic Sensors  
+🔹 Servo Motor Integration  
+
+---
+
+## 📊 Reporting & Analytics Systems
+Advanced reporting solutions including:
+
+📈 Revenue Analytics  
+📄 Dynamic PDF Reports  
+🧾 Passenger Reports  
+🚍 Trip Tracking Systems  
+
+---
+
+# 📚 Currently Learning
+
 - System Design
 - Advanced Backend Architecture
-- AI Integration
 - DevOps & CI/CD
+- AI Integration
+- Clean Architecture
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy turning ideas into real working systems — from mobile apps to embedded hardware 🚀
